@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg30"
+   sodipodi:docname="drive-removable-media.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.633475"
+     inkscape:cx="1.1058512"
+     inkscape:cy="2.665385"
+     inkscape:window-width="1920"
+     inkscape:window-height="954"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+    <linearGradient
+       id="linearGradient887"
+       x1="10"
+       x2="10"
+       y1="23"
+       y2="28"
+       gradientTransform="matrix(1 0 0 .8 -2 -9.4)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#313131"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-color="#636363"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g830"
+     transform="translate(-19.0001)">
+    <path
+       class="ColorScheme-Text"
+       d="m 25,2 c -1.4995,0 -2.5425,1.0366 -2.9316,2.0332 l -2.8691,7.4844 c -0.0032,0.0076 -0.0047,0.01581 -0.0078,0.02344 l -0.05859,0.15039 h 0.01172 c -0.08705,0.25475 -0.14453,0.52362 -0.14453,0.80859 0,1.385 1.115,2.5 2.5,2.5 h 11 c 1.385,0 2.5,-1.115 2.5,-2.5 0,-0.28498 -0.05748,-0.55384 -0.14453,-0.80859 h 0.01172 L 34.8087,11.54104 34.8048,11.52541 c -0.0011,-0.0027 -0.0028,-0.0051 -0.0039,-0.0078 L 31.9317,4.03321 C 31.54254,3.03662 30.4995,2.00001 29.0001,2.00001 h -2 z m 0,1 h 4 c 1.108,0 1.7085,0.6499 2,1.3965 l 2.1875,5.7109 C 32.96789,10.0447 32.74028,9.99998 32.5,9.99998 h -11 c -0.24028,0 -0.46789,0.04472 -0.6875,0.10742 L 23,4.3965 C 23.29153,3.64992 23.892,3 25,3 Z m -3.5,8 h 11 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 h -11 C 20.669,14 20,13.331 20,12.5 20,11.669 20.669,11 21.5,11 Z"
+       fill="currentColor"
+       id="path12" />
+    <circle
+       class="ColorScheme-Text"
+       cx="31.5"
+       cy="12.5"
+       r="0.5"
+       fill="currentColor"
+       id="circle14" />
+  </g>
+</svg>

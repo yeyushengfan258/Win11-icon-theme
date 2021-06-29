@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient924" x1="24.209" x2="28.707" y1="41.274" y2="45.772" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d278e6" offset="0"/>
+   <stop stop-color="#28c8ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient963" x1="24.022" x2="32.187" y1="37.479" y2="47.534" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#919ba5" offset="0"/>
+   <stop stop-color="#646e78" offset="1"/>
+  </linearGradient>
+  <filter id="filter967" x="-.084001" y="-.084001" width="1.168" height="1.168" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30558774"/>
+  </filter>
+  <linearGradient id="linearGradient860" x1="24.022" x2="32.187" y1="37.479" y2="47.534" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient963"/>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-306.88" cy="-327.42" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <g transform="matrix(.86152 0 0 .86152 -14.328 -28.347)">
+  <rect x="18.785" y="37.041" width="3.7041" height="2.1166" ry=".52916" fill="#0071d6"/>
+  <g fill="url(#linearGradient860)">
+   <path d="m25.135 35.983h2.6487c0.47712 0 0.6278 0.29174 0.79976 0.52916l1.5785 2.1794c0.17196 0.23742-0.236 0.52916-0.52916 0.52916h-6.3499c-0.29315 0-0.7016-0.29208-0.52916-0.52916l1.5852-2.1794c0.17244-0.23707 0.32273-0.52916 0.79598-0.52916z"/>
+   <rect x="17.859" y="38.099" width="17.198" height="11.379" ry=".52916"/>
+  </g>
+  <circle cx="26.458" cy="43.523" r="4.3655" filter="url(#filter967)" opacity=".6"/>
+  <circle cx="26.458" cy="43.523" r="4.3655" fill="#fff"/>
+  <circle cx="26.458" cy="43.523" r="3.3072" fill="url(#linearGradient924)"/>
+  <circle cx="33.205" cy="40.084" r=".66145" fill="#b9c3cd" stroke-width="2.8284"/>
+  <path transform="scale(.26458)" d="m67.5 184v1.0098c0 1.108 0.892 2 2 2h61c1.108 0 2-0.89201 2-2v-1.0098z" fill="#41464b"/>
+ </g>
+</svg>

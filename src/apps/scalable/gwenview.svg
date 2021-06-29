@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient873" x1="-48.646" x2="-32.772" y1="-6.3007" y2="9.574" gradientTransform="matrix(.91661 0 0 .91661 26.435 5.9498)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5a5a5a" offset="0"/>
+   <stop stop-color="#141414" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient26304" x1="-12.82" x2="-3.6035" y1="5.424" y2="14.726" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2aaeea" offset="0"/>
+   <stop stop-color="#a582e3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient37398" x1="-8.0591" x2="-3.6378" y1="6.8043" y2="14.207" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0376d2" offset="0"/>
+   <stop stop-color="#3f4d9a" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(19.346 1.0164)">
+  <rect x="-18.155" y=".17449" width="14.551" height="14.551" ry=".72754" fill="url(#linearGradient873)" stroke-width=".91661"/>
+  <path d="m-8.0591 6.8043c-0.35068 0-0.70136 0.13438-0.97006 0.40309l-7.518 7.518h12.216c0.40306 0 0.72755-0.32449 0.72755-0.72755v-3.3048l-3.4857-3.4857c-0.26871-0.26871-0.61939-0.40309-0.97006-0.40309z" fill="url(#linearGradient37398)" stroke-width=".24252"/>
+  <path d="m-12.82 5.424c-0.2469 0-0.49384 0.094538-0.68302 0.28372l-4.6524 4.6524v3.6377c0 0.40306 0.32449 0.72755 0.72755 0.72755h13.096c0.32987 0 0.60411-0.2188 0.69391-0.51867l-8.499-8.499c-0.18919-0.18919-0.43612-0.28372-0.68302-0.28372z" fill="url(#linearGradient26304)" stroke-width=".24252"/>
+  <circle cx="-8.4542" cy="3.8121" r="1.2126" fill="#fff" stroke-width=".91661"/>
+ </g>
+</svg>

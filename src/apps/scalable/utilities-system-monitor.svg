@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Activity-Monitor" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient3789" x1="-6.5962" x2="-6.5962" y1="22.746" y2="15.514" gradientTransform="translate(2.8923,-7.2683)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2dc8f0" offset="0"/>
+   <stop stop-color="#50e6ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3803" x1="-6.6145" x2="-6.6145" y1="5.027" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2fc3fe" offset="0"/>
+   <stop stop-color="#23aef5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3811" x1="-9.8426" x2="-9.8426" y1="6.6145" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1ea7f1" offset="0"/>
+   <stop stop-color="#148dd0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3819" x1="-12.7" x2="-12.7" y1="8.7311" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0978e8" offset="0"/>
+   <stop stop-color="#0467cd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3827" x1="-15.61" x2="-15.61" y1="10.848" y2="14.287" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0171ca" offset="0"/>
+   <stop stop-color="#005ba9" offset="1"/>
+  </linearGradient>
+  <filter id="filter3898" x="-.084" y="-.084" width="1.168" height="1.168" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.32410822"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 1.6604e-5)">
+  <g transform="matrix(3.5434 0 0 3.5434 64.811 -6.4381)">
+   <rect x="-5.5561" y="2.3812" width="2.9104" height="11.906" fill="url(#linearGradient3789)"/>
+   <rect x="-8.4665" y="4.4978" width="2.9104" height="9.7894" fill="url(#linearGradient3803)"/>
+   <rect x="-11.377" y="6.6145" width="2.9104" height="7.6728" fill="url(#linearGradient3811)"/>
+   <rect x="-14.287" y="8.7311" width="2.9104" height="5.5561" fill="url(#linearGradient3819)"/>
+   <rect x="-16.933" y="10.848" width="2.6458" height="3.4395" fill="url(#linearGradient3827)"/>
+  </g>
+  <g transform="matrix(3.2886 0 0 3.2886 74.899 -4.9444)" filter="url(#filter3898)" opacity=".3">
+   <circle cx="-10.186" cy="14.949" r="4.6301" opacity="1"/>
+   <g transform="translate(11.377 .13229)">
+    <rect x="-24.077" y="14.023" width="5.027" height="1.5875" ry=".26458" opacity="1"/>
+    <rect transform="rotate(-90)" x="-17.33" y="-22.357" width="5.027" height="1.5875" ry=".26458" opacity="1"/>
+   </g>
+  </g>
+  <g transform="matrix(3.5434 0 0 3.5434 78.875 -7.3758)">
+   <circle cx="-10.186" cy="14.949" r="4.6301" fill="#184f85"/>
+   <g transform="translate(11.377 .13229)" fill="#fff">
+    <rect x="-24.077" y="14.023" width="5.027" height="1.5875" ry=".26458"/>
+    <rect transform="rotate(-90)" x="-17.33" y="-22.357" width="5.027" height="1.5875" ry=".26458"/>
+   </g>
+  </g>
+ </g>
+</svg>
