@@ -9,13 +9,42 @@
 <stop offset="0" style="stop-color:rgb(25.882353%,89.019608%,90.588235%);stop-opacity:1;"/>
 <stop offset="1" style="stop-color:rgb(3.529412%,43.529412%,74.509804%);stop-opacity:1;"/>
 </linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="64" height="64" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961;stroke:none;"/>
+  </g>
+</mask>
+<image id="image6" width="9" height="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAABmJLR0QA/wD/AP+gvaeTAAAAeklEQVQYlY3QsQoCQQyE4W/dFQTRQlsF4d7B2vd/Da8VRRv1XM8m4mEhpkmG/IGZJJ9Kg97H3A8XIxRMkFFxxQPPHOAYSzTYYI4OtyE0DWCHLRY44oR7CSjH9SpgoTNSCXMVZ7QBtKEr+vTlaY0ZLtjjgO6vdG/o559eaUMfCMRK6YkAAAAASUVORK5CYII="/>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="64" height="64"/>
+</clipPath>
+<g id="surface7" clip-path="url(#clip1)">
+<use xlink:href="#image6" transform="matrix(2,0,0,2,0,20)"/>
+</g>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="64" height="64" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961;stroke:none;"/>
+  </g>
+</mask>
+<image id="image6" width="9" height="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAABmJLR0QA/wD/AP+gvaeTAAAAeklEQVQYlY3QsQoCQQyE4W/dFQTRQlsF4d7B2vd/Da8VRRv1XM8m4mEhpkmG/IGZJJ9Kg97H3A8XIxRMkFFxxQPPHOAYSzTYYI4OtyE0DWCHLRY44oR7CSjH9SpgoTNSCXMVZ7QBtKEr+vTlaY0ZLtjjgO6vdG/o559eaUMfCMRK6YkAAAAASUVORK5CYII="/>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="64" height="64"/>
+</clipPath>
+<g id="surface10" clip-path="url(#clip2)">
+<use xlink:href="#image6" transform="matrix(2,0,0,2,0,10)"/>
+</g>
 </defs>
-<g id="surface1">
+<g id="surface2">
 <path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 0 52 L 64 52 L 64 53 C 64 54.65625 62.65625 56 61 56 L 3 56 C 1.34375 56 0 54.65625 0 53 Z M 0 52 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 45.09375 52.5 L 46.90625 52.5 C 47.234375 52.5 47.5 52.765625 47.5 53.09375 L 47.5 54.90625 C 47.5 55.234375 47.234375 55.5 46.90625 55.5 L 45.09375 55.5 C 44.765625 55.5 44.5 55.234375 44.5 54.90625 L 44.5 53.09375 C 44.5 52.765625 44.765625 52.5 45.09375 52.5 Z M 45.09375 52.5 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 53.09375 52.5 L 54.90625 52.5 C 55.234375 52.5 55.5 52.765625 55.5 53.09375 L 55.5 54.90625 C 55.5 55.234375 55.234375 55.5 54.90625 55.5 L 53.09375 55.5 C 52.765625 55.5 52.5 55.234375 52.5 54.90625 L 52.5 53.09375 C 52.5 52.765625 52.765625 52.5 53.09375 52.5 Z M 53.09375 52.5 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 3 8 L 61 8 C 62.65625 8 64 9.34375 64 11 L 64 52 L 0 52 L 0 11 C 0 9.34375 1.34375 8 3 8 Z M 3 8 "/>
+<use xlink:href="#surface7" mask="url(#mask0)"/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 7 24 L 11 24 C 11.550781 24 12 24.449219 12 25 L 12 29 C 12 29.550781 11.550781 30 11 30 L 7 30 C 6.449219 30 6 29.550781 6 29 L 6 25 C 6 24.449219 6.449219 24 7 24 Z M 7 24 "/>
+<use xlink:href="#surface10" mask="url(#mask1)"/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 7 14 L 11 14 C 11.550781 14 12 14.449219 12 15 L 12 19 C 12 19.550781 11.550781 20 11 20 L 7 20 C 6.449219 20 6 19.550781 6 19 L 6 15 C 6 14.449219 6.449219 14 7 14 Z M 7 14 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 55 54 C 55 54.550781 54.550781 55 54 55 C 53.449219 55 53 54.550781 53 54 C 53 53.449219 53.449219 53 54 53 C 54.550781 53 55 53.449219 55 54 Z M 55 54 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 59 54 C 59 54.550781 58.550781 55 58 55 C 57.449219 55 57 54.550781 57 54 C 57 53.449219 57.449219 53 58 53 C 58.550781 53 59 53.449219 59 54 Z M 59 54 "/>
 </g>
 </svg>
