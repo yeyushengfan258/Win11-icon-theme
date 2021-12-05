@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Win11
-THEME_VARIANTS=('-black' '-blue')
+THEME_VARIANTS=('-black' '-blue' '-red' '-purple')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
