@@ -23,7 +23,7 @@
   <circle cx="-312.55" cy="-328.38" r="0"/>
   <circle cx="-295.13" cy="-341.25" r="0"/>
  </g>
- <g transform="matrix(.91259 0 0 .91259 .74004 .74006)">
+ <g transform="matrix(.97778 0 0 .97778 .18815 .18817)">
   <rect x=".34876" y="1.852" width="16.235" height="13.229" ry=".61766" fill="url(#linearGradient1229)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".60715" style="paint-order:stroke fill markers"/>
   <path d="m0.34876 13.531v0.93224c0 0.34218 0.27557 0.61776 0.61776 0.61776h15c0.34219 0 0.61776-0.27557 0.61776-0.61776v-0.93224z" fill="url(#linearGradient1242)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".60131" style="paint-order:stroke fill markers"/>
   <g fill="#fff" stroke-width=".79999">
