@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient22958" x1="111.47" x2="118.08" y1="31.836" y2="30.896" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a6976b" offset="0"/>
+   <stop stop-color="#bda766" offset=".079016"/>
+   <stop stop-color="#d1b971" offset=".49495"/>
+   <stop stop-color="#baa364" offset=".93449"/>
+   <stop stop-color="#aa9a6d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(1.24 0 0 1.24 -91.103 -6.8811)">
+  <g transform="translate(-11.617)" fill-rule="evenodd">
+   <path d="m120.73 50.209-6.7051 0.88867 0.11328 0.85156c0.13995 1.0423 1.0925 1.7689 2.1348 1.6289l2.9414-0.39648c1.0423-0.13995 1.7688-1.0905 1.6289-2.1328z" fill="#501f24" style="paint-order:stroke fill markers"/>
+   <path d="m108.84 12.502 5.1816 38.596 6.7051-0.88867-5.1816-38.598z" fill="url(#linearGradient22958)" style="paint-order:stroke fill markers"/>
+   <path d="m108.84 12.502 6.7051-0.89062-0.11329-0.84766c-0.1312-0.97716-0.97554-1.6782-1.9394-1.6465-0.0643 0.00211-0.13017 0.00883-0.19531 0.017578l-2.9414 0.39453c-1.0423 0.13995-1.7688 1.0925-1.6289 2.1348z" fill="#501f24" style="paint-order:stroke fill markers"/>
+  </g>
+  <g transform="translate(12.172)">
+   <rect x="64.524" y="9.9375" width="10.938" height="43.64" ry="1.5563" fill="#472107" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+   <text transform="matrix(0 -1.1203 .89264 0 0 0)" x="-43.130508" y="81.080078" fill="#fbe57f" font-family="'Nimbus Roman'" font-size="6.8964px" stroke-width=".17241" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-43.130508" y="81.080078" fill="#fbe57f" font-family="'Nimbus Roman'" font-size="6.8964px" stroke-width=".17241" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">CALIBRE</tspan></text>
+   <g transform="translate(0 -.34866)" fill-rule="evenodd">
+    <rect x="64.524" y="13.422" width="10.938" height=".76604" ry="0" style="paint-order:stroke fill markers"/>
+    <rect x="64.524" y="50.025" width="10.938" height=".76604" ry="0" style="paint-order:stroke fill markers"/>
+   </g>
+  </g>
+  <g transform="translate(-15.155)" fill-rule="evenodd">
+   <rect x="103.02" y="14.188" width="9.628" height="39.39" ry="1.4047" fill="#60747a" style="paint-order:stroke fill markers"/>
+   <g transform="translate(0 -.006717)" fill="#b7babb">
+    <rect x="103.02" y="18.198" width="9.628" height=".39344" ry="0" style="paint-order:stroke fill markers"/>
+    <rect x="103.02" y="49.188" width="9.628" height=".39344" ry="0" style="paint-order:stroke fill markers"/>
+   </g>
+  </g>
+  <g transform="translate(-16.068)">
+   <rect transform="rotate(-10.976)" x="114.9" y="48.072" width="10.844" height="28.917" ry="1.0312" fill="#84aaf9" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+   <path d="m125.98 24.522 2.7661 14.211 1.0311-1.6385 1.3866 1.1378-2.6654-14.179z" fill="#0d13b2"/>
+  </g>
+ </g>
+</svg>
