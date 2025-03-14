@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="gnome-chess.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient873"
+       x1="-48.646"
+       x2="-32.771999"
+       y1="-6.3007002"
+       y2="9.5740004"
+       gradientTransform="matrix(0.91667,0,0,0.91667,35.738,8.9903)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#28afea"
+         offset="0"
+         id="stop1" />
+      <stop
+         stop-color="#838be4"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.15625"
+     inkscape:cx="37.847716"
+     inkscape:cy="39.959391"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     id="g3"
+     transform="matrix(1.0576198,0,0,1.0576198,-0.4878349,-0.4878349)">
+    <path
+       fill="#808080"
+       d="M 3.704,1.587 A 2.112,2.112 0 0 0 1.587,3.704 v 4.763 h 6.88 v 6.879 h 4.762 a 2.112,2.112 0 0 0 2.117,-2.117 V 8.467 H 8.467 v -6.88 z"
+       style="paint-order:markers stroke fill"
+       id="path1" />
+    <path
+       fill="#f9f9f9"
+       d="m 8.466,1.587 v 6.88 H 1.588 v 4.762 c 0,1.173 0.944,2.117 2.116,2.117 h 4.763 v -6.88 h 6.878 V 3.704 A 2.112,2.112 0 0 0 13.229,1.587 Z"
+       style="paint-order:markers stroke fill"
+       id="path2" />
+    <path
+       fill="#4d4d4d"
+       d="m 11.307,12.239 h -0.03 v -0.11 A 0.257,0.257 0 0 0 11.02,11.871 H 10.9 a 1.41,1.41 0 0 1 0.01,-0.442 C 11.048,10.804 11.218,10.184 11.412,9.575 11.732,8.572 11.924,7.57 11.606,6.529 11.252,5.366 10.549,4.541 9.354,4.183 A 0.43,0.43 0 0 1 9.139,4.005 2.562,2.562 0 0 0 8.474,3.253 C 8.459,3.388 8.444,3.475 8.443,3.561 8.442,3.69 8.447,3.819 8.458,3.946 8.474,4.124 8.419,4.231 8.222,4.247 c -0.11,0.008 -0.218,0.05 -0.32,0.075 0,0.4 0,0.4 -0.363,0.547 C 7.42,4.917 7.294,4.953 7.184,5.017 A 0.983,0.983 0 0 0 6.95,5.225 C 6.792,5.407 6.66,5.615 6.484,5.778 6.134,6.103 5.767,6.412 5.396,6.714 5.236,6.844 5.114,6.962 5.194,7.191 5.217,7.257 5.185,7.345 5.171,7.421 5.126,7.658 5.329,8.064 5.547,8.17 6.063,8.42 6.469,8.351 6.877,7.937 7.071,7.742 7.282,7.665 7.555,7.759 7.93,7.889 8.313,7.985 8.761,7.88 8.673,7.973 8.621,8.03 8.567,8.084 8.055,8.604 7.56,9.14 7.185,9.772 6.887,10.274 6.644,10.802 6.654,11.4 c 0.003,0.156 0.02,0.312 0.042,0.47 H 6.644 a 0.257,0.257 0 0 0 -0.257,0.258 v 0.11 h -0.03 c -0.16,0 -0.291,0.13 -0.291,0.292 v 1.15 h 5.533 v -1.15 a 0.29,0.29 0 0 0 -0.292,-0.291 z"
+       id="path3" />
+  </g>
+</svg>

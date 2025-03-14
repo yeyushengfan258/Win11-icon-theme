@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="distributor-logo-nixos.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#c8c8c8"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.3531261"
+     inkscape:cx="-37.214635"
+     inkscape:cy="52.605873"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     id="g3"
+     transform="matrix(1.038076,0,0,1.038076,-11.01929,-9.7067784)">
+    <path
+       fill="#64addc"
+       d="m 39.786846,17.00099 12.195902,21.208414 2.071632,-3.544861 -3.803056,-6.615859 6.302988,-9.39221 -0.891531,-1.655484 h -2.291857 l -5.101623,7.598517 -4.369565,-7.598517 h -4.11289 m -8.804438,14.264496 -4.167565,7.130729 H 15.615269 l -0.959876,1.783062 0.959876,1.783062 h 9.115791 l -4.746226,8.120982 1.982024,3.675477 13.145146,-22.493312 h -4.129596 m 6.908986,19.613682 2.050369,3.566124 h 7.85975 l 5.689395,8.91531 h 2.168835 l 0.947727,-1.758761 -4.513851,-7.150474 h 8.363989 l 1.922791,-3.566124 H 37.889875 Z"
+       id="path2"
+       style="stroke:#ffffff;stroke-width:1.51879;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       fill="#4e66b2"
+       d="m 27.129233,17.00099 -0.946208,1.757243 4.510813,7.150473 h -8.36247 L 20.410096,29.47483 H 44.90062 l -2.05037,-3.566124 h -7.859749 l -5.689396,-8.91531 H 27.130751 M 60.825156,26.5952 47.680009,49.086993 h 4.129596 l 4.167566,-7.132248 h 11.199573 l 0.959877,-1.783062 -0.959877,-1.783062 h -9.117309 l 4.746226,-8.120981 -1.980505,-3.675477 z m -30.014371,15.549394 -2.071633,3.544861 3.803056,6.615859 -6.302988,9.392211 0.891531,1.655483 h 2.291858 l 5.100104,-7.600036 4.371084,7.598517 h 4.112889 L 30.810785,42.143076"
+       id="path3"
+       style="stroke:#ffffff;stroke-width:1.51879;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+</svg>

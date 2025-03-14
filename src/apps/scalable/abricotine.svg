@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1"
+   id="svg20"
+   sodipodi:docname="abricotine.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="946"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="4.3034077"
+     inkscape:cx="-4.4089031"
+     inkscape:cy="22.109113"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <g
+     id="g868"
+     transform="matrix(1.2500179,0,0,1.2500179,-8.6913227,-8.0011091)">
+    <path
+       style="fill:#ff3a00;fill-opacity:1"
+       d="m 37.999514,14.000686 5.999914,-3.999942 v 39.999428 l -5.999914,3.999942 z"
+       id="path8" />
+    <path
+       style="fill:#ffa300;fill-opacity:1"
+       d="M 18.463794,40.000315 11.999886,36.80436 46.641391,16.804646 53.105298,20.000601 Z"
+       id="path12" />
+    <path
+       style="fill:#ff6600;fill-opacity:1"
+       d="M 52.641305,42.804275 53.105298,50.000172 18.463794,30.000458 17.9998,22.804561 Z"
+       id="path16" />
+  </g>
+</svg>

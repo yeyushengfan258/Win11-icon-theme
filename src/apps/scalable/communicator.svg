@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="communicator.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.078125"
+     inkscape:cx="-45.15736"
+     inkscape:cy="25.340101"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text{color:#4d4d4d}</style>
+    <filter
+       id="filter892"
+       x="-0.32658877"
+       y="-0.033033373"
+       width="1.6531775"
+       height="1.0660667"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.19085032"
+         id="feGaussianBlur2" />
+    </filter>
+    <linearGradient
+       id="linearGradient848"
+       x1="-168.88"
+       x2="-177.2"
+       y1="1.3499"
+       y2="-16.855"
+       gradientTransform="matrix(3.3080589,0,0,3.8310046,614.16656,71.596469)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#aa6450"
+         offset="0"
+         id="stop1" />
+      <stop
+         stop-color="#dc7d64"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g4"
+     transform="translate(3.0003068,-6.8753209)">
+    <g
+       transform="matrix(3.5346082,0,0,3.5346082,-41.87786,8.6647351)"
+       id="g6">
+      <rect
+         x="25.757999"
+         y="1.6144"
+         width="1.6502"
+         height="3.3183999"
+         ry="0.25915"
+         fill="#f0f0f0"
+         id="rect2" />
+      <rect
+         x="25.757999"
+         y="5.1300998"
+         width="1.6502"
+         height="3.3183999"
+         ry="0.25915"
+         fill="#00bee6"
+         id="rect3" />
+      <rect
+         x="25.757999"
+         y="8.6458998"
+         width="1.6502"
+         height="3.3183999"
+         ry="0.25915"
+         fill="#3cc346"
+         id="rect4" />
+      <rect
+         x="25.757999"
+         y="12.162"
+         width="1.6502"
+         height="3.3183999"
+         ry="0.25915"
+         fill="#ff9600"
+         id="rect5" />
+      <rect
+         x="25.223"
+         y="1.6144"
+         width="1.4025"
+         height="13.866"
+         ry="0.27599999"
+         filter="url(#filter892)"
+         opacity="0.5"
+         id="rect6" />
+    </g>
+    <rect
+       x="3"
+       y="11.001512"
+       width="48.137012"
+       height="55.74913"
+       ry="4.6496668"
+       fill="url(#linearGradient848)"
+       stroke-width="3.5597"
+       id="rect7"
+       style="fill:url(#linearGradient848)" />
+    <path
+       d="m 7.6504222,11.000756 c -2.5760633,0 -4.6500443,2.074283 -4.6500443,4.650422 v 46.447529 c 0,2.576064 2.0742456,4.650422 4.6500443,4.650422 H 11.528294 V 11 Z"
+       fill="#b46450"
+       stroke-width="3.5597"
+       id="path7" />
+    <g
+       transform="matrix(2.5680128,0,0,2.5680128,-291.75113,-7.1436014)"
+       id="g8">
+      <ellipse
+         transform="rotate(-4.6939)"
+         cx="123.8"
+         cy="27.987"
+         rx="1.6235"
+         ry="2.1308999"
+         fill="#a05037"
+         id="ellipse7" />
+      <path
+         d="m 125.92,20.733 a 3.8003,3.8003 0 0 0 -3.1558,2.232 5.4475,5.4475 0 0 0 3.4102,0.86638 5.4475,5.4475 0 0 0 3.2221,-1.4063 3.8003,3.8003 0 0 0 -3.4765,-1.6921 z"
+         fill="#a05037"
+         id="path8" />
+      <circle
+         transform="rotate(-4.6939)"
+         cx="123.8"
+         cy="28.628"
+         r="5.4475002"
+         fill="none"
+         stroke="#a05037"
+         stroke-dashoffset="0.42096"
+         stroke-width="1.3229"
+         id="circle8" />
+    </g>
+  </g>
+</svg>

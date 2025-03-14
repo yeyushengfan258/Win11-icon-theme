@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg938"
+   sodipodi:docname="preferences-devices-cpu.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs942" />
+  <sodipodi:namedview
+     id="namedview940"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.328125"
+     inkscape:cx="23.071605"
+     inkscape:cy="16.671605"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg938" />
+  <g
+     id="g1087"
+     transform="matrix(1.0769231,0,0,1.0769231,-2.4615392,-2.4613454)">
+    <rect
+       x="6"
+       y="6"
+       width="52"
+       height="52"
+       rx="3"
+       ry="3"
+       fill="#388e3c"
+       stroke-width="1.0293"
+       id="rect886" />
+    <path
+       d="M 16,37 6,45 v 3 l 6,-4 v 2 l -6,4 h 4 v 8 h 6 V 47 l 6,-5 h 3 l -6,5 v 11 h 36 c 1.662,0 3,-1.338 3,-3 V 47.9082 L 51,39 h -2 l -2,-2 z"
+       fill="#43a047"
+       fill-rule="evenodd"
+       id="path888" />
+    <g
+       transform="translate(-5,3)"
+       id="g894">
+      <circle
+         cx="58.5"
+         cy="50.5"
+         r="1.5"
+         fill="#fbc02d"
+         id="circle890" />
+      <circle
+         cx="58.5"
+         cy="50.5"
+         r="0.5"
+         fill="#263238"
+         id="circle892" />
+    </g>
+    <g
+       transform="translate(-5,-1)"
+       id="g900">
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="1.5"
+         fill="#fbc02d"
+         id="circle896" />
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="0.5"
+         fill="#263238"
+         id="circle898" />
+    </g>
+    <g
+       transform="translate(5,3)"
+       id="g906">
+      <circle
+         cx="5.5"
+         cy="50.5"
+         r="1.5"
+         fill="#fbc02d"
+         id="circle902" />
+      <circle
+         cx="5.5"
+         cy="50.5"
+         r="0.5"
+         fill="#263238"
+         id="circle904" />
+    </g>
+    <path
+       d="M 9,6 C 8.64708,6 8.31399,6.070688 8,6.18164 v 11.818 l -2,2 v 2 l 3,3 h 38 l 7,-8 h 4 v -1 h -4 v -4 l -8,9 h -3 l 8,-9 v -6 z"
+       fill="#43a047"
+       fill-rule="evenodd"
+       id="path908" />
+    <path
+       d="m 21,22 h 2 v 20 h -2 z m 4,0 h 2 v 20 h -2 z m 4,0 h 2 v 20 h -2 z m 4,0 h 2 v 20 h -2 z m 4,0 h 2 v 20 h -2 z m 4,0 h 2 v 20 h -2 z"
+       fill="#fbc02d"
+       fill-rule="evenodd"
+       stroke-width="1.4142"
+       style="paint-order:fill markers stroke"
+       id="path910" />
+    <rect
+       x="18"
+       y="24"
+       width="28"
+       height="16"
+       ry="1"
+       fill="#263238"
+       id="rect912" />
+    <rect
+       x="10"
+       y="13"
+       width="17"
+       height="6"
+       ry="1"
+       fill="#263238"
+       stroke-width="1.1019"
+       id="rect914" />
+    <rect
+       x="37"
+       y="44"
+       width="17"
+       height="6"
+       ry="1"
+       fill="#eceff1"
+       id="rect916" />
+    <rect
+       x="38"
+       y="45"
+       width="9"
+       height="1"
+       ry="0"
+       fill="#37474f"
+       id="rect918" />
+    <path
+       d="m 38,47 h 5 v 1 h -5 z"
+       fill="#37474f"
+       id="path920" />
+    <path
+       d="m 49,49 2,-3 2,3 z"
+       fill="#37474f"
+       fill-rule="evenodd"
+       id="path922" />
+    <g
+       transform="translate(0.3178,0.048618)"
+       id="g928">
+      <circle
+         cx="10.182"
+         cy="10.451"
+         r="1.5"
+         fill="#fbc02d"
+         id="circle924" />
+      <circle
+         cx="10.182"
+         cy="10.451"
+         r="0.5"
+         fill="#263238"
+         id="circle926" />
+    </g>
+    <rect
+       x="11"
+       y="14"
+       width="4"
+       height="1"
+       fill="#ffffff"
+       opacity="0.5"
+       style="paint-order:stroke fill markers"
+       id="rect930" />
+    <rect
+       x="11"
+       y="16"
+       width="8"
+       height="1"
+       fill="#ffffff"
+       opacity="0.5"
+       style="paint-order:stroke fill markers"
+       id="rect932" />
+    <rect
+       x="22"
+       y="16"
+       width="3"
+       height="2"
+       fill="#ffffff"
+       opacity="0.5"
+       style="paint-order:stroke fill markers"
+       id="rect934" />
+    <path
+       d="m 30.286,34.571 c -0.94974,0 -1.7143,0.76456 -1.7143,1.7143 0,0.94974 0.76456,1.7143 1.7143,1.7143 0.94974,0 1.7143,-0.76456 1.7143,-1.7143 0,-0.94974 -0.76456,-1.7143 -1.7143,-1.7143 z m -3,-4.2857 a 1.2823,1.2823 0 0 0 -1.2857,1.2857 1.2857,1.2857 0 1 0 2.5714,0 1.2823,1.2823 0 0 0 -1.2857,-1.2857 z m 6.4287,-4.2857 -1.7143,1.7143 2.5714,2.5714 -2.5714,2.5714 1.7143,1.7143 4.2857,-4.2857 -1.7143,-1.7143 z m -4.2857,0 a 0.85715,0.85715 0 1 0 0,1.7143 0.85715,0.85715 0 1 0 0,-1.7143 z"
+       fill="#ffffff"
+       opacity="0.5"
+       stroke-width="0.55592"
+       id="path936" />
+  </g>
+</svg>

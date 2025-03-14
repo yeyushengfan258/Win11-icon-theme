@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="buho.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.0548155"
+     inkscape:cx="70.53342"
+     inkscape:cy="41.678839"
+     inkscape:window-width="1920"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g6"
+     transform="matrix(1.0769231,0,0,1.0769231,-2.4615392,-2.4615392)">
+    <rect
+       width="52"
+       height="52"
+       x="6"
+       y="6"
+       fill="#ececec"
+       rx="7"
+       ry="7"
+       style="paint-order:normal"
+       id="rect1" />
+    <path
+       fill="#f2a638"
+       d="M 13.059,29 A 4.05,4.05 0 0 0 9,33.059 V 50.94 A 4.05,4.05 0 0 0 13.06,55 H 45.53 L 55,45.529 V 33.058 a 4.05,4.05 0 0 0 -4.058,-4.059 z"
+       style="paint-order:normal"
+       id="path1" />
+    <path
+       fill="#f67400"
+       d="m 45.529,55 9.47,-9.47 -5.29,-0.092 c -2.248,-0.04 -4.008,1.81 -4.058,4.058 z"
+       style="paint-order:normal"
+       id="path2" />
+    <path
+       fill="#db4957"
+       d="M 13.059,19 A 4.05,4.05 0 0 0 9,23.059 V 40.94 A 4.05,4.05 0 0 0 13.06,45 H 45.53 L 55,35.529 V 23.058 a 4.05,4.05 0 0 0 -4.058,-4.059 z"
+       style="paint-order:normal"
+       id="path3" />
+    <path
+       fill="#239cf3"
+       d="M 13.059,9 A 4.05,4.05 0 0 0 9,13.059 V 30.94 A 4.05,4.05 0 0 0 13.06,35 H 45.53 L 55,25.529 V 13.058 A 4.05,4.05 0 0 0 50.942,8.999 Z"
+       style="paint-order:normal"
+       id="path4" />
+    <path
+       fill="#c0392b"
+       d="m 45.529,45 9.47,-9.47 -5.29,-0.092 c -2.248,-0.04 -4.008,1.81 -4.058,4.058 z"
+       style="paint-order:normal"
+       id="path5" />
+    <path
+       fill="#2980b9"
+       d="m 45.468,35 9.531,-9.517 -5.379,-0.046 c -2.248,-0.019 -4.113,1.811 -4.058,4.06 C 45.542,31.767 45.468,35 45.468,35 Z"
+       style="paint-order:normal"
+       id="path6" />
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg5"
+   sodipodi:docname="distributor-logo-qubes.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       id="a-3"
+       x1="32"
+       x2="32"
+       y1="2"
+       y2="62"
+       gradientTransform="translate(0.25274,0.81328)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f5faff"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#cfdef0"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.15625"
+     inkscape:cx="-0.16243655"
+     inkscape:cy="33.624365"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <circle
+     cx="32"
+     cy="32"
+     r="30"
+     fill="url(#a-3)"
+     style="fill:url(#a-3);paint-order:stroke markers fill"
+     id="circle3" />
+  <g
+     id="g5"
+     transform="matrix(1.1795003,0,0,1.1795003,-5.7436557,-5.7436557)">
+    <path
+       d="m 31.9997,16.739 -12.9129,7.63035 c 0.68321,3.241138 3.277529,2.954706 5.8695,3.5217 l 7.0434,-4.10865 7.0434,4.10865 c 3.298659,1.226725 4.908076,-0.07513 5.8695,-3.5217 z"
+       fill="#7dadff"
+       id="path2"
+       style="stroke-width:1.1739" />
+    <path
+       d="m 39.0431,27.89105 v 8.2173 L 31.9997,40.217 c -2.419408,2.3478 -1.439201,4.6956 0,7.0434 l 12.9129,-7.63035 v -15.2607 z"
+       fill="#2764c9"
+       id="path3"
+       style="stroke-width:1.1739" />
+    <path
+       d="m 19.0868,24.36935 v 15.2607 L 31.9997,47.2604 V 40.217 l -7.0434,-4.10865 v -8.2173 z"
+       fill="#418bff"
+       id="path4"
+       style="stroke-width:1.1739" />
+    <path
+       d="m 36.6953,39.0431 8.2173,4.6956 v 2.3478 l -2.3478,1.1739 H 40.217 l -8.2173,-4.6956 z"
+       fill="#2764c9"
+       id="path5"
+       style="stroke-width:1.1739" />
+  </g>
+</svg>

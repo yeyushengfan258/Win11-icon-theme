@@ -1,6 +1,121 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
- </defs>
- <path class="ColorScheme-Text" d="m7.5 5c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5h1.5v4h-1.5c-1.3807 0-2.5 1.1193-2.5 2.5s1.1193 2.5 2.5 2.5 2.5-1.1193 2.5-2.5v-1.5h4v1.5c0 1.3807 1.1193 2.5 2.5 2.5s2.5-1.1193 2.5-2.5-1.1193-2.5-2.5-2.5h-1.5v-4h1.5c1.3807 0 2.5-1.1193 2.5-2.5s-1.1193-2.5-2.5-2.5-2.5 1.1193-2.5 2.5v1.5h-4v-1.5c0-1.3807-1.1193-2.5-2.5-2.5zm0 1c0.82843 0 1.5 0.67157 1.5 1.5v1.5h-1.5c-0.82843 0-1.5-0.67157-1.5-1.5s0.67157-1.5 1.5-1.5zm9 0c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5h-1.5v-1.5c0-0.82843 0.67157-1.5 1.5-1.5zm-6.5 4h4v4h-4zm-2.5 5h1.5v1.5c0 0.82843-0.67157 1.5-1.5 1.5s-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5zm7.5 0h1.5c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5-1.5-0.67157-1.5-1.5z" fill="currentColor"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="input-keyboard.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#c8c8c8"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="16.583333"
+     inkscape:cx="7.2964824"
+     inkscape:cy="9.0452261"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect6675"
+     width="22"
+     height="22"
+     x="26.814215"
+     y="0.54213101" />
+  <g
+     id="g6695"
+     transform="translate(-22,22)">
+    <path
+       id="path6677"
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       d="m 26,-17 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 16 c 1.108,0 2,-0.892 2,-2 v -10 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 16 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 H 26 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z"
+       sodipodi:nodetypes="ssssssssssssssssss" />
+    <circle
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6679"
+       cx="28"
+       cy="-13"
+       r="1" />
+    <circle
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6681"
+       cx="32"
+       cy="-13"
+       r="1" />
+    <circle
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6683"
+       cx="36"
+       cy="-13"
+       r="1" />
+    <circle
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6685"
+       cx="40"
+       cy="-13"
+       r="1" />
+    <circle
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6687"
+       cx="30"
+       cy="-10"
+       r="1" />
+    <circle
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6689"
+       cx="34"
+       cy="-10"
+       r="1" />
+    <circle
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6691"
+       cx="38"
+       cy="-10"
+       r="1" />
+    <rect
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6693"
+       width="12"
+       height="2"
+       x="28"
+       y="-8"
+       ry="1" />
+  </g>
 </svg>
