@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="accessories-character-map.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.2261747"
+     inkscape:cx="-3.4096108"
+     inkscape:cy="34.716037"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <filter
+       id="a"
+       width="1.2160068"
+       height="1.216"
+       x="-0.10800338"
+       y="-0.108"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.44"
+         id="feGaussianBlur1" />
+    </filter>
+    <linearGradient
+       id="a-3"
+       x1="32"
+       x2="32"
+       y1="2"
+       y2="62"
+       gradientTransform="translate(0.25273252,0.81328072)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f5faff"
+         offset="0"
+         id="stop891" />
+      <stop
+         stop-color="#cfdef0"
+         offset="1"
+         id="stop893" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="32"
+     cy="32"
+     r="30"
+     fill="url(#a-3)"
+     style="fill:url(#a-3);stroke-width:1;paint-order:stroke markers fill"
+     id="circle898" />
+  <path
+     d="M32 17c-8.825 0-16 7.175-16 16s7.175 16 16 16h.002a16 16 0 0 0 11.816-5.25 1 1 0 0 0-.068-1.412 1 1 0 0 0-1.413.068A14 14 0 0 1 32 47c-7.743 0-14-6.256-14-14s6.257-14 14-14a13.985 13.985 0 0 1 14 13.998V34.5c0 1.402-1.097 2.5-2.5 2.5S41 35.902 41 34.5V33c0-4.959-4.04-9-9-9s-9 4.041-9 9 4.042 9 9 9c3.428 0 6.417-1.931 7.936-4.762A4.5 4.5 0 0 0 43.499 39c2.476 0 4.5-2.024 4.5-4.5V33c0-8.825-7.175-16-16-16zm0 9c3.878 0 7 3.122 7 7s-3.122 7-7 7-7-3.122-7-7 3.122-7 7-7"
+     color="#000"
+     filter="url(#a)"
+     opacity=".15"
+     style="-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="path2" />
+  <path
+     fill="#666"
+     d="M32 16c-8.825 0-16 7.175-16 16s7.175 16 16 16h.002a16 16 0 0 0 11.816-5.25 1 1 0 0 0-.068-1.412 1 1 0 0 0-1.413.068A14 14 0 0 1 32 46c-7.743 0-14-6.256-14-14s6.257-14 14-14a13.985 13.985 0 0 1 14 13.998V33.5c0 1.402-1.097 2.5-2.5 2.5S41 34.902 41 33.5V32c0-4.959-4.04-9-9-9s-9 4.041-9 9 4.042 9 9 9c3.428 0 6.417-1.931 7.936-4.762A4.5 4.5 0 0 0 43.499 38c2.476 0 4.5-2.024 4.5-4.5V32c0-8.825-7.175-16-16-16zm0 9c3.878 0 7 3.122 7 7s-3.122 7-7 7-7-3.122-7-7 3.122-7 7-7"
+     color="#000"
+     style="-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="path3" />
+</svg>
