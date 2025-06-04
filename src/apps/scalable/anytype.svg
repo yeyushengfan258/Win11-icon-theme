@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="anytype.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="4.2536892"
+     inkscape:cx="69.351564"
+     inkscape:cy="18.337024"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="a"
+       x1="16"
+       x2="47"
+       y1="16"
+       y2="48"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop1" />
+      <stop
+         offset=".452"
+         stop-color="#fff"
+         id="stop2" />
+      <stop
+         offset=".594"
+         stop-color="#fef0cb"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#ffbcc3"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="56.002"
+     height="56.002"
+     x="4"
+     y="3.969"
+     rx="13.002"
+     ry="13.002"
+     id="rect4" />
+  <path
+     fill="url(#a)"
+     d="M20 16v7h20v-7zm20 7v25h7V23zm-13.5 4A10.5 10.5 0 0 0 16 37.5 10.5 10.5 0 0 0 26.5 48 10.5 10.5 0 0 0 37 37.5 10.5 10.5 0 0 0 26.5 27"
+     style="paint-order:markers fill stroke"
+     id="path4" />
+</svg>
