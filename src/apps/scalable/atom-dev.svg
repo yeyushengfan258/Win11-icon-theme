@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg5"
-   sodipodi:docname="atom-beta.svg"
+   sodipodi:docname="atom-dev.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,8 +20,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="6.5075921"
-     inkscape:cx="47.636667"
-     inkscape:cy="24.586667"
+     inkscape:cx="29.196667"
+     inkscape:cy="19.976667"
      inkscape:window-width="2560"
      inkscape:window-height="1408"
      inkscape:window-x="0"
@@ -31,55 +31,38 @@
   <defs
      id="defs4">
     <linearGradient
-       id="a"
-       x1="28.309"
-       x2="28.309"
-       y1="3.969"
-       y2="60.005"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(80.828668)">
-      <stop
-         offset="0"
-         stop-color="#ffd923"
-         id="stop1" />
-      <stop
-         offset="1"
-         stop-color="#ffa423"
-         id="stop2" />
-    </linearGradient>
-    <linearGradient
        id="b"
        x1="24.586"
        x2="24.586"
        y1="12.173"
        y2="35.946"
-       gradientTransform="matrix(1.462,0,0,1.462,77.760668,-3.302)"
+       gradientTransform="matrix(1.462,0,0,1.462,74.687334,-3.302)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
          stop-color="#fff"
-         id="stop3" />
+         id="stop1" />
       <stop
          offset="1"
          stop-color="#e8e8e8"
-         id="stop4" />
+         id="stop2" />
     </linearGradient>
     <linearGradient
-       id="linearGradient866"
-       x1="-11.319"
-       x2="-11.319"
-       y1="16.528999"
-       y2="0.74440998"
-       gradientTransform="matrix(3.779602,0,0,3.779602,90.623506,-32.644084)"
+       id="a"
+       x1="7.937"
+       x2="7.937"
+       y1="15.081"
+       y2="1.852"
+       gradientTransform="matrix(3.7796,0,0,3.7796,77.755334,0)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#1ea03c"
          offset="0"
-         id="stop1-3" />
+         stop-color="#0e71de"
+         id="stop3" />
       <stop
-         stop-color="#8cc846"
          offset="1"
-         id="stop2-6" />
+         stop-color="#25c9ff"
+         id="stop4" />
     </linearGradient>
     <linearGradient
        id="linearGradient1005-3-3"
@@ -102,24 +85,32 @@
          offset="1"
          id="stop98" />
     </linearGradient>
-    <filter
-       id="filter3977"
-       x="-0.055846206"
-       y="-0.060499941"
-       width="1.1116924"
-       height="1.1209999"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="0.84699915"
-         id="feGaussianBlur145" />
-    </filter>
+    <linearGradient
+       id="b-7"
+       x1="97.425003"
+       x2="97.425003"
+       y1="-9.0071001"
+       y2="209.87"
+       gradientTransform="matrix(0.3,0,0,0.3,2.000002,2.000203)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5beaff"
+         offset="0"
+         id="stop148" />
+      <stop
+         stop-color="#4076ff"
+         offset="1"
+         id="stop150-5" />
+    </linearGradient>
   </defs>
-  <path
-     d="m 62.0001,32.00005 c 0,3.5964 -0.63304,7.0445 -1.7939,10.24 -0.80695,2.2212 -1.8686,4.3211 -3.1519,6.2636 -0.53753,0.81668 -1.1155,1.6054 -1.729,2.3633 -1.964,2.4257 -4.298,4.538 -6.9183,6.2524 -0.96491,0.63184 -1.9678,1.2098 -3.0061,1.7277 -4.032,2.0179 -8.5837,3.1529 -13.401,3.1529 -4.8173,0 -9.3687,-1.1351 -13.401,-3.153 -1.0384,-0.518 -2.0425,-1.0959 -3.0074,-1.7277 -2.6535,-1.7376 -5.0155,-3.8831 -6.9954,-6.3489 -0.61464,-0.76407 -1.1914,-1.56 -1.729,-2.384 -1.249,-1.9102 -2.2836,-3.9711 -3.0746,-6.1493 -1.1607,-3.1948 -1.7926,-6.6416 -1.7926,-10.237 0,-16.569 13.431,-30 30,-30 8.3169,0 15.843,3.3845 21.277,8.8504 1.5661,1.5746 2.9584,3.3233 4.1434,5.2138 1.1204,1.7804 2.0571,3.6881 2.7857,5.695 1.161,3.1959 1.794,6.6441 1.794,10.24 z"
-     fill="url(#linearGradient1005-3-3)"
-     stroke-width="0.11719"
-     id="path146"
-     style="fill:url(#linearGradient1005-3-3)" />
+  <circle
+     cx="32"
+     cy="32"
+     r="30"
+     color="#000000"
+     fill="url(#b)"
+     id="circle541"
+     style="fill:url(#b-7);stroke-width:0.999999" />
   <g
      stroke-width="0.26458"
      id="g4"
